@@ -1,3 +1,6 @@
+注这个仓库是拉的dubbo官方的代码，目的是，自己在里面加上中文注释，让自己能够深刻的理解dubbo。
+以后可能会加上自己的代码分析文档，或者流程图等等
+
 Dubbo is a distributed service framework enpowers applications with service import/export capability with high performance RPC.
 
 It's composed of three kernel parts:
